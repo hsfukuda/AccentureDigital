@@ -1,0 +1,10 @@
+Produto;Valor
+Notebook;31
+Notebook;23
+Notebook;132
+Notebook;43
+Notebook;23
+Carro;564
+Carro;643
+Carro;23400
+
