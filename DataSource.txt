@@ -7,4 +7,4 @@ Notebook;23
 Carro;564
 Carro;643
 Carro;23400
-
+Máquina;132
