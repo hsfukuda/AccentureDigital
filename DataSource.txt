@@ -8,3 +8,4 @@ Carro;564
 Carro;643
 Carro;23400
 Máquina;1321
+Máquina;1
